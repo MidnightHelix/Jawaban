@@ -1,0 +1,6 @@
+[GIN-debug] POST   /test                     --> main.main.func2 (5 handlers)
+[GIN-debug] Listening and serving HTTP on localhost:8000
+[2021-03-29T04:13:47+07:00] Success: POST /test  {"counter" : 1   ,"X-RANDOM" : "iMJfkmOA"} 
+[2021-03-29T04:13:51+07:00] Success: POST /test  {"counter" : 2   ,"X-RANDOM" : "LKSzIqSm"} 
+[2021-03-29T04:13:56+07:00] Success: POST /test  {"counter" : 3   ,"X-RANDOM" : "wtgTRam8"} 
+[2021-03-29T04:14:01+07:00] Success: POST /test  {"counter" : 4   ,"X-RANDOM" : "JoKaN0Ls"} 
